@@ -1,0 +1,2 @@
+# MiniMapReduce
+一个基于Java实现的轻量级MapReduce框架
